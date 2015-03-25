@@ -1,0 +1,20 @@
+{
+  "name": "elementary-algorithms-in-javascript",
+  "private": false,
+  "version": "1.0.0",
+  "repository": {
+    "url": "git://github.com/pbakondy/elementary-algorithms-in-javascript.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.7.0",
+    "gulp-jshint": "^1.6.1",
+    "jshint-stylish": "^0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "GNU GPLv3"
+    }
+  ],
+  "dependencies": {
+  }
+}

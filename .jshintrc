@@ -1,0 +1,18 @@
+{
+  "boss": true,
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "esnext": true,
+  "expr": true,
+  "immed": true,
+  "noarg": true,
+  "node": true,
+  "onevar": true,
+  "quotmark": "single",
+  "smarttabs": true,
+  "strict": true,
+  "trailing": true,
+  "undef": true,
+  "unused": true
+}

@@ -10,7 +10,7 @@ This project is based on this book: [Elementary Algorithms](https://github.com/l
   - [The smallest free ID problem, the power of algorithms](lib/preface/smallest_free_id.js)
   - [The number puzzle, power of data structure](lib/preface/number_puzzle.js)
 - II. Trees
-  - 1 Binary search tree, the ‘hello world’ data structure
+  - 1 [Binary search tree, the ‘hello world’ data structure](lib/trees/binary_search_tree.js)
   - 2 The evolution of insertion sort
   - 3 Red-black tree, not so complex as it was thought
   - 4 AVL tree
